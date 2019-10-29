@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,oBACF,CAEA,SACE,sBACF","file":"main.692bd0ce.chunk.css","sourcesContent":[".redBG {\r\n  background-color: red;\r\n}\r\n\r\n.greenBG {\r\n  background-color: green;\r\n}\r\n"]}
